@@ -14,8 +14,8 @@ import pandas as pd
 from pandas_datareader import data as pdr
 
 #%%
-EMAIL_ADDRESS = 'andrewhreha8@gmail.com'
-EMAIL_PASSWORD = '07161999Drew'
+EMAIL_ADDRESS = 'username'
+EMAIL_PASSWORD = 'password'
 
 msg=EmailMessage()
 
