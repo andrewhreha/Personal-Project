@@ -7,7 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import yfinance as yf
 
-df = yf.Ticker("LULU").history(period="max").reset_index()[["Open"]]
+df = yf.Ticker("QQQ").history(period="max").reset_index()[["Open"]]
 
 
 df.shape
